@@ -86,6 +86,17 @@ ResNet-50 is a convolutional neural network that is 50 layers deep. You can load
 
 ![image](https://user-images.githubusercontent.com/85983864/160606438-17d89e68-7432-4cd5-8df3-875b35122096.png)
 
+## What is CNN?
+![image](https://user-images.githubusercontent.com/52121616/165948102-580f61d8-9b8f-48a9-9cd1-358a2cd7b611.png)
+The agenda for this field is to enable machines to view the world as humans do, perceive it in a similar manner and even use the knowledge for a multitude of tasks such as Image & Video recognition, Image Analysis & Classification, Media Recreation, Recommendation Systems, Natural Language Processing, etc. The advancements in Computer Vision with Deep Learning has been constructed and perfected with time, primarily over one particular algorithm — a Convolutional Neural Network.
+![image](https://user-images.githubusercontent.com/52121616/165948215-9391b8d1-54f3-4f31-9e29-58152f78a775.png)
+
+A ConvNet is able to successfully capture the Spatial and Temporal dependencies in an image through the application of relevant filters. The architecture performs a better fitting to the image dataset due to the reduction in the number of parameters involved and reusability of weights. In other words, the network can be trained to understand the sophistication of the image better.
+
+The role of the ConvNet is to reduce the images into a form which is easier to process, without losing features which are critical for getting a good prediction.
+
+The objective of the Convolution Operation is to extract the high-level features such as edges, from the input image. ConvNets need not be limited to only one Convolutional Layer. Conventionally, the first ConvLayer is responsible for capturing the Low-Level features such as edges, color, gradient orientation, etc. With added layers, the architecture adapts to the High-Level features as well, giving us a network which has the wholesome understanding of images in the dataset, similar to how we would.
+
 ## Method 3: Custom CNN Model
 A convolution network generally consists of alternate convolution and max-pooling operations. The output obtained after applying convolution operation is shrunk using max-pooling operation which is then used as an input for the next layer.
 
