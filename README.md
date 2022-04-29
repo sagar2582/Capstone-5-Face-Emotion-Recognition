@@ -110,4 +110,20 @@ https://user-images.githubusercontent.com/52121616/165901744-fa6f9dd3-32c2-4091-
 
 # Link to the sites
 
-## Streamlit : https://share.streamlit.io/sagar2582/capstone-5-face-emotion-recognition/main/app.py
+| Website | Link |
+| ------ | ------ |
+| Heroku | https://live-class-face-emotion.herokuapp.com/ |
+| Streamlit | https://share.streamlit.io/sagar2582/capstone-5-face-emotion-recognition/main/app.py |
+
+## Conclusion
+💪 trained the neural network and we achieved the highest validation accuracy of 66%.
+
+😞 Pre Trained Model didn't gave appropriate result.
+
+😊 The application is able to detect face location and predict the right expression while checking it on a local webcam.
+
+🙂 The front-end of the model was made using streamlit for webapp and running well on local webapp link.
+
+😎 Finally, we successfully deployed the Streamlit WebApp on Heroku and Streamlit share that runs on a web server.
+
+😃 Our Model can succesfully detect face and predict emotion on live video feed as well as on an image.
