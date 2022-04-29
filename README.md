@@ -107,3 +107,7 @@ The following photos and video contains the real time deploymnet of the app in l
 **Demo Video**
 
 https://user-images.githubusercontent.com/52121616/165901744-fa6f9dd3-32c2-4091-abee-bd849ac4258c.mp4
+
+# Link to the sites
+
+## Streamlit : https://share.streamlit.io/sagar2582/capstone-5-face-emotion-recognition/main/app.py
